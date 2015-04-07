@@ -1,0 +1,8 @@
+body {
+	text-align: center;
+	font-family: Verdana;
+}
+
+.row {
+	border: 1px solid gray;
+}
